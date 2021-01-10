@@ -7,7 +7,7 @@ Model, Simulate and Control Parrot Drone in MATLAB &amp; SIMULINK
     Image Processing Toolbox
     Computer Vision Toolbox
     Signal Processing Toolbox
-    Aerospace Toolbo
+    Aerospace Toolbox
     Aerospace Blockset
 
 ## Create projects
